@@ -15,7 +15,11 @@ export class EmpleadoComponent implements OnInit {
 
   edad=18;
 
-  //empresa="Pildoras XD";
+  empresa="Google";
+
+  // cambiarEmpresa(event:Event) {
+  //   this.empresa=(<HTMLInputElement>event.target).value;
+  // }
 
   // getEdad() {
 
